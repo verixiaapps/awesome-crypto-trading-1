@@ -54,6 +54,8 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-crypto-tradin
 
 ## Analytics platforms
 
+- [Sharpe](https://www.sharpe.ai) - Crypto market intelligence for derivatives positioning, arbitrage, narratives, stablecoins, exchange listings, and news.
+
 ## API
 
 - [cryptocompare](https://min-api.cryptocompare.com/documentation)
