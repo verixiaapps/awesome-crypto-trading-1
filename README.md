@@ -27,6 +27,7 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-crypto-tradin
 - [zenbot](https://github.com/DeviaVir/zenbot)
 - [freqtrade](https://github.com/freqtrade/freqtrade) - #python, #telegram
 - [CryptoMon Bot](https://github.com/jchristov/cryptomon-bot) - Helps tracking of your cryptocurrency investments and making smart, informed buy/sell decisions.
+- [Darkbot](https://darkbot.io/) - Cloud crypto trading bots with grid, DCA, a visual strategy designer, backtesting, and paper trading.
 - [ZenBot](https://github.com/carlos8f/zenbot) - A command-line cryptocurrency trading bot using Node.js and MongoDB.
 - [Titan](https://github.com/Denton24646/Titan) - Based on python, flask, postgres.
 - [Python-crypto-Bot](https://github.com/Seigneur774/Python-crypto-Bot)
